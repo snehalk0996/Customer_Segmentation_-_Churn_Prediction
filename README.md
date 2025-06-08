@@ -99,10 +99,3 @@ These enhancements will enable more accurate identification of **high-risk custo
 - Jupyter Notebook
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/customer-analytics-project.git
-   cd customer-analytics-project
