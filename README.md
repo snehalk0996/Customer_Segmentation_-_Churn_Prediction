@@ -15,7 +15,7 @@ This project demonstrates the end-to-end data analytics process on a telecom cus
 
 ## 📁 Project Structure
 
-- `Customer_Analytics_Capstone_Project.ipynb`: Jupyter Notebook containing the full analysis of the telecom dataset.
+- `Customer_Segmentation_&_Churn_Prediction.ipynb`: Jupyter Notebook containing the full analysis of the telecom dataset.
 - `README.md`: Project overview, objectives, and execution guide.
 
 ---
