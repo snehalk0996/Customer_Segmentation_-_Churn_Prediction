@@ -1,6 +1,6 @@
 # 📊 Customer Segmentation & Churn Prediction
 
-This capstone project demonstrates the end-to-end data analytics process on a telecom customer dataset. The primary goal is to extract insights that help improve customer retention and target the right customer segments using data-driven strategies.
+This project demonstrates the end-to-end data analytics process on a telecom customer dataset. The primary goal is to extract insights that help improve customer retention and target the right customer segments using data-driven strategies.
 
 ---
 
